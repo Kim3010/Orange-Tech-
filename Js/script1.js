@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <script>
-      /*
-        // Introdução a JavaScript :
+// Introdução a JavaScript :
 
 // É uma linguagem de programação interpretada( não passa por um processo de compilação)
 // ECMAScript
@@ -30,13 +22,4 @@ let user ={ // Outro modo de declarar uma variavel
 }
 
 console.log('O resultado foi :'+ user.nome+" " + user.idade +" "+ user.sexo); // Isso é concatenação 
-        */
 
-        
-    </script>
-    <title>Orange Tech</title>
-  </head>
-  <body>
-    <div id="demo"></div>
-  </body>
-</html>
