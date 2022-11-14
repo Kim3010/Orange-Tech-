@@ -5,3 +5,5 @@ document =
 
 */
 
+const preco = 4.65;
+
